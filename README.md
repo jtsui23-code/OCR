@@ -1,16 +1,18 @@
-# OCR (Optical Character Recognition)
+## OCR (Optical Character Recognition)
 
-## Descriptoin:
-A simple OCR tool that extracts Japanese text from snipped images and saves the result to the clipboard.
+### Description:
+This program extracts text from an image. The image is selected using the program's OCR GUI and cropping a portion on the user's screen. The program supports extracting English and Japanese text.
 
-## Technology Used:
-- Python
-- pyperclip
-- Tesseract OCR
+### Files:
+|   #   | File            | Description                                        |
+| :---: | --------------- | -------------------------------------------------- |
+|   1   | [main.py](https://github.com/jtsui23-code/Projects/blob/main/Projects/ocr/main.py)        | This is the script that runs the OCR.      |
 
-## How To Run:
-1. Install dependencies:
-```
-pip install pyperclip pytesseract
-```
-3. Run the program:
+
+### Instructions:
+
+- Run the program
+- Crop a portion of the screen by clicking the OCR button on the GUI
+- The cropped screen will then have all of the text on it extract and pasted into the user's clipboard
+  
+
