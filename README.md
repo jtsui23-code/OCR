@@ -14,6 +14,8 @@ This program extracts text from an image. The image is selected using the progra
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [main.py](https://github.com/jtsui23-code/Projects/blob/main/Projects/ocr/main.py)        | This is the script that runs the OCR.      |
+|   2   | [Snip Tool](https://github.com/jtsui23-code/OCR/tree/main/Snip%20Tool)        | This folder contains the Snip Tool I programmed that was used in my OCR project.     |
+
 
 
 ### Instructions:
